@@ -1,0 +1,29 @@
+{
+  "subjects": [
+    {
+      "name": "English",
+      "total": 75,
+      "class": "9th Green"
+    },
+    {
+      "name": "Pakistan Studies", 
+      "total": 50,
+      "class": "9th Green"
+    },
+    {
+      "name": "Urdu",
+      "total": 75,
+      "class": "9th Green"
+    },
+    {
+      "name": "M.Q",
+      "total": 50,
+      "class": "9th Green"
+    },
+    {
+      "name": "Islamiyat",
+      "total": 50,
+      "class": "9th Green"
+    }
+  ]
+}
